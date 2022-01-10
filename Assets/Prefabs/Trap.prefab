@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 5626945888193616070}
   - component: {fileID: 4918890348039763319}
   m_Layer: 0
-  m_Name: New Prefab
-  m_TagString: Untagged
+  m_Name: Trap
+  m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
